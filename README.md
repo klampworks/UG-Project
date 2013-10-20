@@ -12,7 +12,7 @@ The system sources words from a thesaurus, a reverse dictionary, and several onl
 
 The system uses a depth first search algorithm with backtracking and several modular enhancements including forward checking and arc consistency. Details of how the algorithm works and the data structures involved is included in the final paper, Applying AI techniques to solve Crossword Puzzles.pdf.
 
-Greater emphasis was placed on making the solving process as efficient and complete as possible given a selection of words and opposed to finding the one true solution to each given clue. This is apparent in the screenshots below where many of the words share a very tenuous connection to the original clue.
+Greater emphasis was placed on making the solving process as efficient and complete as possible given a selection of words as opposed to finding the one true solution to each given clue. This is apparent in the screenshots below where some of the words share a very tenuous connection to the original clue.
 
 The application is multi threaded to take full advantage of modern processors and includes a graphical user interface to let the user modify configuration options and visualise the solving process by watching the crossword grid periodically update as the system makes its way through the search space.
 

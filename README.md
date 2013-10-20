@@ -22,5 +22,10 @@ Screenshots
 ==========
 
 ![Alt Initial load](puzzle_loaded.jpg)
+Initial loading of a puzzle file.
+
 ![Alt Solved using local sources](puzzle_solved_15.jpg)
+The system's best solution using only on disk word sources (dictionary and thesaurus).
+
 ![Alt Solved using web sources](puzzle_solved_26_websearch.jpg)
+The system's best solution using local sources and web sources.
